@@ -1,1 +1,1 @@
-# msRIS
+# openRIS
